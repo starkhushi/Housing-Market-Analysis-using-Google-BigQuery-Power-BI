@@ -45,8 +45,7 @@ This project leverages **BigQuery’s large-scale data processing** and **Power 
 
 ## 📷 Sample Dashboard Preview  
 
-![Dashboard Screenshot](your-dashboard-screenshot.png)  
-*(Add a screenshot of your Power BI dashboard here for visual appeal)*  
+<img width="1483" height="727" alt="image" src="https://github.com/user-attachments/assets/5f16956b-f559-4abd-96ac-73baf9b5caf2" />
 
 ---
 
