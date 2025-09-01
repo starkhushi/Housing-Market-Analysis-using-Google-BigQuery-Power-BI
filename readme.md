@@ -80,4 +80,3 @@ This project demonstrates the **core skills of a Data Analyst**:
 
 👤 **Khushi**  
 📧 [khushi886987@gmail.com](mailto:khushi886987@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
